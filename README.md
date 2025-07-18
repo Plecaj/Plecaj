@@ -1,7 +1,7 @@
 # Plecaj
 
 ### 👋 About Me  
-I'm a C++ developer with a passion for graphics programming and low-level systems. I enjoy building things from the ground up — from rendering to custom tools — and I’m always exploring new ways to make real-time visuals faster, cleaner, and more expressive.  
+I'm a 17 years old C++ developer with a passion for graphics programming and low-level systems. I enjoy building things from the ground up — from rendering to custom tools — and I’m always exploring new ways to make real-time visuals faster, cleaner, and more expressive.  
 I care about writing clear, efficient code and designing systems that are both flexible and robust. I occasionally solve problems on LeetCode just for fun.
 
 ---
