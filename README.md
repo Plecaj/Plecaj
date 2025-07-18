@@ -27,7 +27,7 @@ I care about writing clear, efficient code and designing systems that are both f
 ---
 
 ### 📬 Get in Touch  
-- **Email:** plecakovv@gmail.com  
+- **Email:** michalkalasiewicz0@gmail.com  
 
 ---
 
