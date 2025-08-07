@@ -1,22 +1,22 @@
 # Plecaj
 
 ### 👋 About Me  
-I'm a 17 years old C++ developer with a passion for graphics programming and low-level systems. I enjoy building things from the ground up — from rendering to custom tools, and I’m always exploring new ways to make real-time visuals faster, cleaner, and more expressive.  
-I care about writing clear, efficient code and designing systems that are both flexible and robust. I occasionally solve problems on LeetCode just for fun.
+Hey! I’m a 17-year-old developer who loves working with C++. I’m really into graphics programming, low-level systems, and building cool stuff from scratch. I like clean code, smart design, and solving problems just for fun.
 
 ---
 
 ### 🎯 Current Focus  
-- Designing and implementing core game engine systems in C++  
-- Building custom tools to streamline the development workflow  
-- Practicing algorithms and data structures on LeetCode to strengthen problem-solving skills  
+- Writing game engine systems in C++
+- Practicing algorithms and data structures on LeetCode
+- Learning math, especially stuff related to graphics
 
 ---
 
 ### 🛠️ Skills & Technologies  
-- **Modern C++ (C++20/23):** Primary language with experience in advanced features and clean design principles
-- **Graphics Programming:** OpenGL, GLSL, and linear algebra applied in real-time rendering  
-- **Rust:** Familiar with Rust syntax, ownership model, and tooling (Cargo, etc.)
+- **C++20/23** – My main language, with a focus on modern features and clean design  
+- **Graphics Programming** – OpenGL, GLSL, and the math (mostly linear algebra) behind real-time rendering  
+- **Rust** – Comfortable with the syntax, ownership model, and tools like Cargo  
+- **Git** – Everyday tool for version control and managing projects
 
 ---
 
