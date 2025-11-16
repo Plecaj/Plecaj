@@ -1,10 +1,6 @@
-# Plecaj
-
-### 👋 About Me  
-17 y/o developer. Enjoy building systems and solving programming challenges.
-
+Plecaj
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=FFFFFF&repeat=false&width=1000&lines=17+y%2Fo+developer.+Enjoying+building+systems+and+programming+challanges.)](https://git.io/typing-svg)
 ---
-
 ### 🛠️ Skills & Technologies  
 
 <p align="left">
