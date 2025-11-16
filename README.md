@@ -1,28 +1,56 @@
 # Plecaj
 
 ### 👋 About Me  
-Hey! I’m a 17-year-old developer who loves working with C++. I’m really into graphics programming, low-level systems, and building cool stuff from scratch. I like clean code, smart design, and solving problems just for fun.
-
----
-
-### 🎯 Current Focus  
-- Writing game engine systems in C++
-- Practicing algorithms and data structures on LeetCode
-- Learning math, especially stuff related to graphics
+17 y/o developer. Enjoy building systems and solving programming challenges.
 
 ---
 
 ### 🛠️ Skills & Technologies  
-- **C++20/23** – My main language, with a focus on modern features and clean design  
-- **Graphics Programming** – OpenGL, GLSL, and the math (mostly linear algebra) behind real-time rendering  
-- **Rust** – Comfortable with the syntax, ownership model, and tools like Cargo  
-- **Git** – Everyday tool for version control and managing projects
+
+<p align="left">
+  <a href="https://en.cppreference.com/w/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" 
+         alt="C++" title="C++" width="48" height="48"/>
+  </a>
+  <a href="https://doc.rust-lang.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" 
+         alt="Rust" title="Rust" width="48" height="48"/>
+  </a>
+  <a href="https://git-scm.com/doc" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
+         alt="Git" title="Git" width="48" height="48"/>
+  </a>
+  <a href="https://www.khronos.org/opengl/wiki/Main_Page" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" 
+         alt="OpenGL" title="OpenGL" width="48" height="48"/>
+  </a>
+ <a href="https://www.postgresql.org/docs/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" 
+         alt="PostgreSQL" title="PostgreSQL" width="48" height="48"/>
+  </a>
+  <a href="https://www.typescriptlang.org/docs/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" 
+         alt="TypeScript" title="TypeScript" width="48" height="48"/>
+  </a>
+  <a href="https://docs.nestjs.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" 
+         alt="NestJS" title="NestJS" width="48" height="48"/>
+  </a>
+</p>
+
+---
+
+### 🎯 Areas of Interest
+- System Architecture
+- Software Design Patterns
+- Modern C++/Rust language and ecosystem knowledge
+- Graphics/Low Level/Server side programming
 
 ---
 
 ### 🚀 Projects  
-- [**RodEngine**](https://github.com/Plecaj/RodEngine) — a work-in-progress graphics/game engine in C++.  
-- [**PlecakDB**](https://github.com/Plecaj/PlecakDB) — a simple relational database system side project. Currently includes a basic lexer and parser. Development is on pause while I focus on the engine, but I plan to return to it soon.
+- [**RodEngine**](https://github.com/Plecaj/RodEngine) — work in progress game engine in C++.  
+- [**Depo**](https://github.com/Plecaj/Depo) - CLI and GUI Package manager for C++ projects, written in Rust for Open Source Hackfest
 
 ---
 
