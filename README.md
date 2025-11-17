@@ -1,60 +1,35 @@
-Plecaj
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=FFFFFF&repeat=false&width=1000&lines=17+y%2Fo+developer.+Enjoying+building+systems+and+programming+challanges.)](https://git.io/typing-svg)
----
-### 🛠️ Skills & Technologies  
+# About Me
+
+**I’m Plecaj**, a 17 y/o developer who loves building systems and challenges.  
+<i>My main areas of interest include system architecture, software design patterns, modern C++/Rust language and ecosystem knowledge, and graphics, low-level, and server-side programming.</i>
+
+## Skills & Technologies  
 
 <p align="left">
-  <a href="https://en.cppreference.com/w/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" 
-         alt="C++" title="C++" width="48" height="48"/>
-  </a>
-  <a href="https://doc.rust-lang.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" 
-         alt="Rust" title="Rust" width="48" height="48"/>
-  </a>
-  <a href="https://git-scm.com/doc" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
-         alt="Git" title="Git" width="48" height="48"/>
-  </a>
-  <a href="https://www.khronos.org/opengl/wiki/Main_Page" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" 
-         alt="OpenGL" title="OpenGL" width="48" height="48"/>
-  </a>
- <a href="https://www.postgresql.org/docs/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" 
-         alt="PostgreSQL" title="PostgreSQL" width="48" height="48"/>
-  </a>
-  <a href="https://www.typescriptlang.org/docs/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" 
-         alt="TypeScript" title="TypeScript" width="48" height="48"/>
-  </a>
-  <a href="https://docs.nestjs.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" 
-         alt="NestJS" title="NestJS" width="48" height="48"/>
-  </a>
+  <a href="https://en.cppreference.com/w/" target="_blank"><img src="https://iconic-api.onrender.com/dark/cpp" alt="C++" title="C++" width="48" height="48"/></a>
+  <a href="https://doc.rust-lang.org/" target="_blank"> <img src="https://iconic-api.onrender.com/dark/rust" alt="Rust" title="Rust" width="48" height="48"/></a>
+  <a href="https://git-scm.com/doc" target="_blank"><img src="https://iconic-api.onrender.com/dark/git" alt="Git" title="Git" width="48" height="48"/></a>
+  <a href="https://github.com" target="_blank"><img src="https://iconic-api.onrender.com/dark/github" alt="GitHub" title="GitHub" width="48" height="48"/></a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://iconic-api.onrender.com/dark/jira" alt="Jira" title="Jira" width="48" height="48"/></a>
+  <a href="https://www.postgresql.org/docs/" target="_blank"><img src="https://iconic-api.onrender.com/dark/postgresql" alt="PostgreSQL" title="PostgreSQL" width="48" height="48"/></a>
+  <a href="https://www.typescriptlang.org/docs/" target="_blank"><img src="https://iconic-api.onrender.com/dark/typescript" alt="TypeScript" title="TypeScript" width="48" height="48"/></a>
+  <a href="https://nodejs.org/docs/latest/api/" target="_blank"><img src="https://iconic-api.onrender.com/dark/nodejs" alt="Node" title="Node" width="48" height="48"/></a>
 </p>
 
----
+# Projects
 
-### 🎯 Areas of Interest
-- System Architecture
-- Software Design Patterns
-- Modern C++/Rust language and ecosystem knowledge
-- Graphics/Low Level/Server side programming
+ ## RodEngine
+   > **Work in progress game engine in C++.**
 
----
+  [**Click here**](https://github.com/Plecaj/RodEngine)
+  
+ ## Depo 
+   > **CLI and GUI Package manager for C++ projects, written in Rust for Open Source Hackfest**
 
-### 🚀 Projects  
-- [**RodEngine**](https://github.com/Plecaj/RodEngine) — work in progress game engine in C++.  
-- [**Depo**](https://github.com/Plecaj/Depo) - CLI and GUI Package manager for C++ projects, written in Rust for Open Source Hackfest
+  [**Click here**](https://github.com/Plecaj/Depo) 
 
----
 
-### 📬 Get in Touch  
-- **Email:** michalkalasiewicz0@gmail.com  
-
----
-
-### 🐍 GitHub Contribution Snake
+# Get in Touch  
+**Email:** michalkalasiewicz0@gmail.com  
 
 ![snake gif](https://github.com/Plecaj/Plecaj/blob/output/github-snake-dark.svg)
