@@ -19,12 +19,12 @@
 # Projects
 
  ## RodEngine
-   > **Work in progress game engine in C++.**
+   > RodEngine is a custom C++ game engine I'm building from scratch. The engine supports 2D rendering, a built-in editor, and ECS system. It is a work in progress, so features and systems are still being developed.
 
   [**Click here**](https://github.com/Plecaj/RodEngine)
   
  ## Depo 
-   > **CLI and GUI Package manager for C++ projects, written in Rust for Open Source Hackfest**
+   > Depo is a C++ package manager. It provides both a command-line interface (CLI) and a graphical user interface (GUI). Depo is fast, easy to use, and designed for open source projects.
 
   [**Click here**](https://github.com/Plecaj/Depo) 
 
