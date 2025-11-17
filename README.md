@@ -21,12 +21,14 @@
  ## RodEngine
    > RodEngine is a custom C++ game engine I'm building from scratch. The engine supports 2D rendering, a built-in editor, and ECS system. It is a work in progress, so features and systems are still being developed.
 
-  [**Click here**](https://github.com/Plecaj/RodEngine)
+[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Plecaj/RodEngine)
+
   
  ## Depo 
    > Depo is a C++ package manager. It provides both a command-line interface (CLI) and a graphical user interface (GUI). Depo is fast, easy to use, and designed for open source projects.
 
-  [**Click here**](https://github.com/Plecaj/Depo) 
+[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Plecaj/Depo)
+
 
 
 # Get in Touch  
