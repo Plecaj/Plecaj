@@ -9,11 +9,10 @@
   <a href="https://en.cppreference.com/w/" target="_blank"><img src="https://iconic-api.onrender.com/dark/cpp" alt="C++" title="C++" width="48" height="48"/></a>
   <a href="https://doc.rust-lang.org/" target="_blank"> <img src="https://iconic-api.onrender.com/dark/rust" alt="Rust" title="Rust" width="48" height="48"/></a>
   <a href="https://git-scm.com/doc" target="_blank"><img src="https://iconic-api.onrender.com/dark/git" alt="Git" title="Git" width="48" height="48"/></a>
+  <a href="https://neovim.io" target="_blank"><img src="https://iconic-api.onrender.com/dark/neovim" alt="Neovim" title="Neovim" width="48" height="48"/></a>
+  <a href="https://www.postgresql.org/docs/" target="_blank"><img src="https://iconic-api.onrender.com/dark/postgresql" alt="PostgreSQL" title="PostgreSQL" width="48" height="48"/></a>
   <a href="https://github.com" target="_blank"><img src="https://iconic-api.onrender.com/dark/github" alt="GitHub" title="GitHub" width="48" height="48"/></a>
   <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://iconic-api.onrender.com/dark/jira" alt="Jira" title="Jira" width="48" height="48"/></a>
-  <a href="https://www.postgresql.org/docs/" target="_blank"><img src="https://iconic-api.onrender.com/dark/postgresql" alt="PostgreSQL" title="PostgreSQL" width="48" height="48"/></a>
-  <a href="https://www.typescriptlang.org/docs/" target="_blank"><img src="https://iconic-api.onrender.com/dark/typescript" alt="TypeScript" title="TypeScript" width="48" height="48"/></a>
-  <a href="https://nodejs.org/docs/latest/api/" target="_blank"><img src="https://iconic-api.onrender.com/dark/nodejs" alt="Node" title="Node" width="48" height="48"/></a>
 </p>
 
 # Projects
