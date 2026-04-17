@@ -25,7 +25,7 @@
 
   
  ## Depo 
-   > **Depo is a C++ package manager. It provides both a command-line interface (CLI) and a graphical user interface (GUI). Depo is fast, easy to use, and designed for open source projects.**
+   > **Depo is a prototype of C++ package manager. It provides both a command-line interface (CLI) and a graphical user interface (GUI). Written for Open Source Hackfest.**
 
 [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Plecaj/Depo)
 
