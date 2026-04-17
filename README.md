@@ -5,15 +5,16 @@
 
 ## Skills & Technologies  
 
-<p align="left">
-  <a href="https://en.cppreference.com/w/" target="_blank"><img src="https://iconic-api.onrender.com/dark/cpp" alt="C++" title="C++" width="48" height="48"/></a>
-  <a href="https://doc.rust-lang.org/" target="_blank"> <img src="https://iconic-api.onrender.com/dark/rust" alt="Rust" title="Rust" width="48" height="48"/></a>
-  <a href="https://git-scm.com/doc" target="_blank"><img src="https://iconic-api.onrender.com/dark/git" alt="Git" title="Git" width="48" height="48"/></a>
-  <a href="https://neovim.io" target="_blank"><img src="https://iconic-api.onrender.com/dark/neovim" alt="Neovim" title="Neovim" width="48" height="48"/></a>
-  <a href="https://www.postgresql.org/docs/" target="_blank"><img src="https://iconic-api.onrender.com/dark/postgresql" alt="PostgreSQL" title="PostgreSQL" width="48" height="48"/></a>
-  <a href="https://github.com" target="_blank"><img src="https://iconic-api.onrender.com/dark/github" alt="GitHub" title="GitHub" width="48" height="48"/></a>
-  <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://iconic-api.onrender.com/dark/jira" alt="Jira" title="Jira" width="48" height="48"/></a>
-</p>
+<table>
+  <tr>
+    <td><a href="https://en.cppreference.com/w/"><img src="https://iconic-api.onrender.com/dark/cpp" width="48" height="48"/></a></td>
+    <td><a href="https://doc.rust-lang.org/"><img src="https://iconic-api.onrender.com/dark/rust" width="48" height="48"/></a></td>
+    <td><a href="https://git-scm.com/doc"><img src="https://iconic-api.onrender.com/dark/git" width="48" height="48"/></a></td>
+    <td><a href="https://neovim.io"><img src="https://iconic-api.onrender.com/dark/neovim" width="48" height="48"/></a></td>
+    <td><a href="https://github.com"><img src="https://iconic-api.onrender.com/dark/github" width="48" height="48"/></a></td>
+    <td><a href="https://www.atlassian.com/software/jira"><img src="https://iconic-api.onrender.com/dark/jira" width="48" height="48"/></a></td>
+  </tr>
+</table>
 
 # Projects
 
