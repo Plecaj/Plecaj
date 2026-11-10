@@ -23,7 +23,7 @@ Interested in **graphics programming** and **embedded systems**.
 
 ### RodEngine
 
-A C++23 game engine and editor supporting 2D/3D rendering, scene management, C# scripting and standalone runtime builds.
+A C++23 game engine and editor supporting 2D/3D rendering, scene management and C# scripting.
 
 My main long-term project, focused on **modular software architecture**, engine design and the modern C++ ecosystem. It also serves as a practical environment for working with build systems, testing, debugging and code quality.
 
